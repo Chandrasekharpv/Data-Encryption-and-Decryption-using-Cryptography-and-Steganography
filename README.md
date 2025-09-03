@@ -1,4 +1,3 @@
-# Data-Encryption-and-Decryption-using-Cryptography-and-Steganography
 # CHANDRA SEKHAR P V
 
 ```typescript
